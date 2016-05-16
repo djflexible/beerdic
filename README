@@ -12,5 +12,5 @@ beerdic / JHanNanum / src / kr / ac / kaist / swrc / jhannanum / demo / 에 아�
  
 6. Extractor2는 모든 형태소에 관한 카운트를 세는 클래스이다
  
-7. ExtractorFinal은 맛의 표현과 안주, 계절 등의 데이터를 수집하는 클래스이다. 각 변수들은 데이터베이스에 저장할 수 있도록 개별로 지정되있으며 모든 Extractor의 기능을 수행 가능하다
+7. ExtractorFinal은 맛의 표현과 안주, 계절 등의 데이터를 수집하는 클래스이다. 각 변수들은 데이터베이스에 저장할 수 있도록 개별로 지정되있으며 모든 Extractor의 기능을 수행한다.
 
