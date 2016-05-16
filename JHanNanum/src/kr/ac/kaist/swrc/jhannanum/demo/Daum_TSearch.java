@@ -50,23 +50,3 @@ public class Daum_TSearch {
 		}
 	}
 }
-
-/*
- * Elements titles = doc.select("a"); for (Element e : titles) {
- * 
- * System.out.println(e.toString()); } Elements titles2 = doc.select("p"); for
- * (Element e : titles2) {
- * 
- * System.out.println(e.toString()); }
- */
-/*
- * Elements titles = doc.select("[href]"); for(Element e: titles){
- * System.out.println(e.toString()); }
- */
-/*
- * Elements titles = doc.select(".post-view div"); Elements titles2 =
- * doc.select(".post-view p");
- * 
- * for(Element e: titles){ System.out.println(e.text()); } for(Element f:
- * titles2){ System.out.println(f.text()); }
- */
