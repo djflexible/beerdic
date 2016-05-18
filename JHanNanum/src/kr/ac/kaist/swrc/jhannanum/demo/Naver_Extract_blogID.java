@@ -33,9 +33,9 @@ public class Naver_Extract_blogID {
 
 
 	String searchQuery = InputKeword.keword;//검색어
-	int page = InputKeword.page;
-	int display = 10; // display 값은 최대 100
-	int count = 0;
+	private int page = InputKeword.page;
+	private int display = 10; // display 값은 최대 100
+	private int count = 0;
 
 	// public static void main(String[] args) throws SAXException, IOException,
 	// ParserConfigurationException{
