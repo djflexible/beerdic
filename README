@@ -4,7 +4,7 @@ Beerdic 관련 문서 : https://drive.google.com/file/d/0B-zsSFbS0nlhQ21KaGIzUW1
 
 beerdic / data / 에 129개의 맥주 데이터 보관
 beerdic / JHanNanum / src / kr / ac / kaist / swrc / jhannanum / demo / 에 아래 설명하는 알고리즘이 있습니다. 
-
+https://github.com/djflexible/beerdic/tree/master/JHanNanum/src/kr/ac/kaist/swrc/jhannanum/demo 
 
 1. Input_keword에서 검색하려는 맥주의 이름과 검색횟수를 지정해준다 (예: keyword = 호가든맥주 page = 20 -> 호가든맥주 200개를 검색)
  
