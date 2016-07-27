@@ -1,6 +1,11 @@
-Beerdic 관련 문서 : https://drive.google.com/file/d/0B-zsSFbS0nlhbElKOUJoajF5N0E/view?usp=sharing
-421개 맥주이야기 전처리기 결과 : https://drive.google.com/file/d/0B-zsSFbS0nlhMkhSLW9WVjc1d3M/view?usp=sharing
-추출 내용 예시 : https://drive.google.com/file/d/0B-zsSFbS0nlhek9fbURMYWVRLW8/view?usp=sharing
+# Beerdic 관련 문서
+https://drive.google.com/file/d/0B-zsSFbS0nlhbElKOUJoajF5N0E/view?usp=sharing
+
+# 421개 맥주이야기 전처리기 결과
+https://drive.google.com/file/d/0B-zsSFbS0nlhMkhSLW9WVjc1d3M/view?usp=sharing
+
+#추출 내용 예시
+https://drive.google.com/file/d/0B-zsSFbS0nlhek9fbURMYWVRLW8/view?usp=sharing
 
 beerdic / data / 에 129개의 맥주 데이터 보관
 beerdic / JHanNanum / src / kr / ac / kaist / swrc / jhannanum / demo / 에 아래 설명하는 알고리즘이 있습니다. 
@@ -31,3 +36,6 @@ https://github.com/djflexible/beerdic/tree/master/JHanNanum/src/kr/ac/kaist/swrc
  
 7. ExtractorFinal은 맛의 표현과 안주, 계절 등의 데이터를 수집하는 클래스이다. 각 변수들은 데이터베이스에 저장할 수 있도록 개별로 지정되있으며 모든 Extractor의 기능을 수행한다.
 
+# 프로젝트 초기 Class diagram, Sequence diagram
+https://github.com/djflexible/beerdic/blob/master/class_diagram.jpg
+https://github.com/djflexible/beerdic/blob/master/sequence_diagram.pdf
